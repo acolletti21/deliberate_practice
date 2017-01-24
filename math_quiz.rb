@@ -14,7 +14,7 @@ problems = [prob1, prob2, prob3, prob4].shuffle
 problems.each do |problem, answer|
   puts problem["problem"]
   puts "Please enter your answer"
-    user_answer= gets.chomp.to_i
+    user_answer = gets.chomp.to_i
     if problem["answer"] == user_answer.to_i
       puts "Correct!"
     else 

@@ -1,16 +1,9 @@
 #deliberate practice
 # an array of hashes, collect all movie titles that are overdue
-# an array of strings, use #map to return an array of reversed strings
 # given a random string from an array, loop through up to 10 ties for user to guess string using gets.chomp
 # model two people(employee, boss), exchanging money using classes(paycheck, expenses, etc)
 
 ---
-
-# use classes to calculate tips received by server
-# an array of name hashes, collect all that have names starting with a vowel
-# guessing game, let a user pick an option 1-3 if, if they match the random answer they get back winner// or game of chance that returns winner or loser after automatically generating
-# random math problem, if user puts correct answer put correct etc.
-# an array of strings, use #map to return an array of reversed strings
 
 # an array of strings, count which one has the most a's
 
@@ -39,3 +32,6 @@
 # Continue with Exercise 3: Expand the program so a user gets all the account info by entering an account number i.e. prompt the user to enter an account number, and output the first_name, last_name, etc.
 # Also continue with exercise 3: reject a user entering an account if the email address doesn’t have an “@” and doesn’t end in “.com” Prompt the user to try again if this happens.
 
+# 1/22/17 required 
+# loop through a collection of data
+# find new ruby method you havent used before and do a breakdown like research method file(bubble search, set stack queue, )
