@@ -35,3 +35,4 @@
 # 1/22/17 required 
 # loop through a collection of data
 # find new ruby method you havent used before and do a breakdown like research method file(bubble search, set stack queue, )
+# look into more advanced enumerables: reduce/inject, map of index, etc. you can try to recreate those with longer code that shows the process. Case statements, begin rescue retry, ARGV 
