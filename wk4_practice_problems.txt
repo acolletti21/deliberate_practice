@@ -1,0 +1,10 @@
+wk4_practice_problems.txt
+
+1. Iterate through hashes of users that have multiple hobbies and multiple favorite colors, count how many things they have in common
+
+2. Learn to use the shift method on a hash, I can try to implement it using the hobbies hash created in the first exercise
+
+3. create a new crud app with restful routes
+  4.  add associations has_many & belongs_to
+
+5. loop through a an array of hashes to find what user has the longest name that is over 20 years old
